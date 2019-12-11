@@ -1,2 +1,7 @@
 # Machine-Learning-Coursera
-Machine Learning by Prof. Andrew Ng
+
+##Hello!
+This is my first git repository.
+Here i have uploaded the full assignments solution of ~Machine Learning Coursera~ by ~Prof. Andrew Ng~.
+
+
